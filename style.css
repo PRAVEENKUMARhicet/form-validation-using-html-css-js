@@ -1,0 +1,37 @@
+label{
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+body{
+    background-color: blanchedalmond;
+}
+form{
+    border: 2px solid black;
+    width: max-content;
+    padding: 20px 50px;
+    border-radius: 20px;
+    margin-top: 150px;
+    margin-left: 650px;
+    font-size: large;
+}
+
+input{
+    padding: 5px 10px;
+    border-radius: 10px;
+    width: 200px;
+}
+.btn button{
+    margin-top: 20px;
+    border-radius: 10px;
+    padding: 5px 10px;
+    font-weight: bolder;
+    background-color: red;
+    color: white;
+    margin-left: 70px;
+}
+
+.address input{
+    height: 50px;
+}
